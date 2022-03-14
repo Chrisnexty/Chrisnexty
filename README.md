@@ -5,6 +5,5 @@
 - 📫 You wanna reach me, you can do that on +234-9112503003 both on whatsApp and Voice call or chrisnexty@gmail.com for email conversations ...
 
 <!---
-Chrisnexty/Chrisnexty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Chrisnexty
 --->
